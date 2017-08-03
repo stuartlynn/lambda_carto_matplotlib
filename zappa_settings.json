@@ -1,0 +1,7 @@
+{
+    "dev": {
+        "app_function": "plotter.app", 
+        "s3_bucket": "zappa-888fe0qlm",
+				"slim_handler": true
+    }
+}
