@@ -16,17 +16,20 @@ That will set up a set of AWS lambda functios that can plot and return matplotli
 ## Bar Plot
 
 Expects the CARTO Query to have a column called _cat_ and one called _val_
+```
 /dev/bar.img?q={query}&username={username}&xlabel={x}&ylabel={y}&title={title}
-
+```
 ## Scatter Plot
 
 Expects the CARTO Query to have a column called _cx_ and one called _y_
+```
 /dev/scatter.img?q={query}&username={username}&xlabel={x}&ylabel={y}&title={title}
-
+```
 
 ## Pair Plot
 
 Will make a seaborn pair plot of all the variables in the table
+```
 /dev/pairplot.img?q={query}&username={username}&xlabel={x}&ylabel={y}&title={title}
-
+```
 more to come...
