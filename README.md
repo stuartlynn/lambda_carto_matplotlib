@@ -1,6 +1,6 @@
-# lambda_carto_matplotlib
+# Lambda Carto Matplotlib
 
-This is a quick AWS service to plot matplotlib plots from data in [CARTO](https://carto.com/) for popup images 
+This is a quick AWS service to plot matplotlib plots from data in [CARTO](https://carto.com/) for popup images. For more info on what it does and how to use it, check out this [medium post](https://medium.com/@Stuart_Lynn/carto-matplotlib-amazon-aws-popup-joy-dd49fe44131d)
 
 ## Setup
 
