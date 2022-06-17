@@ -21,7 +21,7 @@ kappa==0.6.0
 lambda-packages==0.16.1
 MarkupSafe==1.0
 matplotlib==2.0.2
-numpy==1.13.1
+numpy==1.21.0
 pandas==0.20.3
 placebo==0.8.1
 pyparsing==2.2.0
